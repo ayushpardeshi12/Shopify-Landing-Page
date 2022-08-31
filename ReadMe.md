@@ -12,3 +12,13 @@ git pull -->  to pull the repository
 
 
 this clone is created using HTML5 for structuring the page , CSS3 for styling the web page 
+
+the web page uses 
+
+Git for making repository 
+
+Github to Host the webpage
+
+Github Desktop to publish the repository 
+
+and VISUAL STUDIO CODE for development
